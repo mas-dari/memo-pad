@@ -8,7 +8,7 @@ new StickySidebar('.sidebar', {
    })
 
 // メモページ作成イベント
-    //クリックするとメモページが作成
+    //クリックするとメモページ出現
 
 // const addBtn = $('#btn_01');
 
